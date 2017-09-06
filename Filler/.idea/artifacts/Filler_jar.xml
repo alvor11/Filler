@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Filler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Filler_jar</output-path>
+    <root id="archive" name="Filler.jar">
+      <element id="module-output" name="Filler" />
+    </root>
+  </artifact>
+</component>
